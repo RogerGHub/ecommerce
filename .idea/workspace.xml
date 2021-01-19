@@ -2,21 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54770339-36a3-4fd1-9ef0-ce6ecfb9a188" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hosts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpd-vhosts.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/footer.c5b813be90a10a19f97859c318d75589.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/footer.c5b813be90a10a19f97859c318d75589.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/header.c5b813be90a10a19f97859c318d75589.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.c5b813be90a10a19f97859c318d75589.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/index.c5b813be90a10a19f97859c318d75589.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.c5b813be90a10a19f97859c318d75589.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -55,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609882733503</updated>
       <workItem from="1609882760226" duration="3586000" />
+      <workItem from="1610663140135" duration="1430000" />
+      <workItem from="1610665132065" duration="121000" />
     </task>
     <servers />
   </component>

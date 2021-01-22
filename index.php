@@ -335,8 +335,25 @@ $app->post("/admin/categories/:idcategory", function($idcategory){
 	header("Location: /admin/categories");
 	exit();
 
+});
+
+
+// Rota para categorias
+$app->get("/categories/:idcategory", function($idcategory){
+
+	$category = new Category();
+
+	$category->get((int)$idcategory);
+
+	$page = new Page();
+
+	$page->setTpl("category", [
+		'category' =>$category->getValues(),
+		'products' => []
+	]);
 
 });
+
 
 // Cria as páginas, ou seja, mada executar o link digitado no browser.
 $app->run();

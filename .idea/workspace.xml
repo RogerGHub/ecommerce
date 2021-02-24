@@ -5,6 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/hcodebr/php-classes/src/Page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/header.b18aae8b7bfe6bd31c1fe7cf29d9e8b3.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.b18aae8b7bfe6bd31c1fe7cf29d9e8b3.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/login.b18aae8b7bfe6bd31c1fe7cf29d9e8b3.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/login.b18aae8b7bfe6bd31c1fe7cf29d9e8b3.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/admin/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -52,6 +57,8 @@
       <workItem from="1609882760226" duration="3586000" />
       <workItem from="1610663140135" duration="1430000" />
       <workItem from="1610665132065" duration="121000" />
+      <workItem from="1613153451587" duration="157000" />
+      <workItem from="1613154300762" duration="594000" />
     </task>
     <servers />
   </component>

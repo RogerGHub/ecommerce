@@ -14,6 +14,7 @@ class Page{
         "data"=>[]
     ];
 
+    // Monta o header da página
     public function __construct($opts = array(), $tpl_dir = "/views/"){
 
         $this->options = array_merge($this->defaults, $opts);

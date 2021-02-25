@@ -46,6 +46,7 @@ $app->post("/admin/products/create", function(){
 });
 
 
+// Carrega registro para edição
 $app->get("/admin/products/:idproduct", function($idproduct){
 
 	User::verifyLogin();
@@ -63,7 +64,8 @@ $app->get("/admin/products/:idproduct", function($idproduct){
 });
 
 
-$app->get("/admin/products/:idproduct", function($idproduct){
+// Salva registro editado
+$app->post("/admin/products/:idproduct", function($idproduct){
 
 	User::verifyLogin();
 
